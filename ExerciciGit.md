@@ -37,10 +37,6 @@
 5. **Document the Process in ExrciciGit.md:**
    - Open `E1Github.md` in a text editor and document the process, including the Git commands. For example:
 
-    
-     # Exercise 1 - GitHub Repository Setup
-
-     ## Steps Followed
 
      1. Created a new repository on GitHub named "Exercise1."
      2. Cloned the repository to my local machine:
